@@ -33,11 +33,11 @@
       "value": "",
       "required": false
     },
-    "UPDATE_GROUP": {
+    "JOIN_GROUP": {
       "description": "Your Support Group USERNAME (without @)..",
       "value": "TeleRoid14"
     },
-     "UPDATE_CHANNEL": {
+     "SUBSCRIBE_CHANNEL": {
       "description": "For Force Subscribe. Don't Change it😎..",
       "value": "MoviesFlixers_DL"
     },
@@ -55,7 +55,7 @@
     }
   ],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/Helpsomeone/heroku-buildpack-ffmpeg-latest"
   }, {
     "url": "heroku/python"
   }],
