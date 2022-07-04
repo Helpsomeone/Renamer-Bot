@@ -8,7 +8,7 @@ Please fork this repository don't import code
 Made with Python3
 (C) @TheTeleRoid
 Copyright permission under GNU General Public License v3.0
-License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
+License -> https://github.com/Helpsomeone/RENAMER-BOT/blob/master/LICENSE
 ```
 
 ### Variables
@@ -35,7 +35,7 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 
 ### Deploy To Heroku. 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/GoddGoku/RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Helpsomeone/RENAMER-BOT)
 
 
 ### Credits
